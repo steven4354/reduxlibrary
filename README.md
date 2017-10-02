@@ -1,4 +1,4 @@
-![Demo](https://ibb.co/bHYSrG)
+![Demo](https://ibb.co/bHYSrG.gif)
 
 References in this git repository:
 
